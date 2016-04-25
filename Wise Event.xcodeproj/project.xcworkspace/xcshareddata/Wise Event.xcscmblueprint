@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F7996A3BFA4E9003DFA83235988D228C1C8B029",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "452352A5FDF411B7E9E2D34572EC0C6146C84017",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "6F7996A3BFA4E9003DFA83235988D228C1C8B029" : 0,
-    "0A7217A782DEA00B489AFF19AB9958BD031539D5" : 0
+    "452352A5FDF411B7E9E2D34572EC0C6146C84017" : 0,
+    "0A7217A782DEA00B489AFF19AB9958BD031539D5" : 0,
+    "6F7996A3BFA4E9003DFA83235988D228C1C8B029" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2E9F3AB3-A557-4E18-9571-46047AEBED3D",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "6F7996A3BFA4E9003DFA83235988D228C1C8B029" : "TestingVersion\/",
-    "0A7217A782DEA00B489AFF19AB9958BD031539D5" : ""
+    "452352A5FDF411B7E9E2D34572EC0C6146C84017" : "Ravinders\/",
+    "0A7217A782DEA00B489AFF19AB9958BD031539D5" : "",
+    "6F7996A3BFA4E9003DFA83235988D228C1C8B029" : "TestingVersion\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Wise Event",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ravinder521986\/TESTING.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A7217A782DEA00B489AFF19AB9958BD031539D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ravinder521986\/Ravinders.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "452352A5FDF411B7E9E2D34572EC0C6146C84017"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ravinder521986\/TestingVersion.git",

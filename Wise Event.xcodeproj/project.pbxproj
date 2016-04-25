@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04487F121CCE999F00E7D0B4 /* raaaaaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04487F111CCE999F00E7D0B4 /* raaaaaViewController.m */; };
 		5D30A6281BE768740065EB2C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D30A6271BE768740065EB2C /* main.m */; };
 		5D30A62B1BE768740065EB2C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D30A62A1BE768740065EB2C /* AppDelegate.m */; };
 		5D30A62E1BE768740065EB2C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D30A62D1BE768740065EB2C /* ViewController.m */; };
@@ -22,6 +23,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04487F101CCE999F00E7D0B4 /* raaaaaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = raaaaaViewController.h; sourceTree = "<group>"; };
+		04487F111CCE999F00E7D0B4 /* raaaaaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = raaaaaViewController.m; sourceTree = "<group>"; };
 		5D30A6221BE768740065EB2C /* Wise Event.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Wise Event.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D30A6261BE768740065EB2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D30A6271BE768740065EB2C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -80,6 +83,8 @@
 				5D30A62D1BE768740065EB2C /* ViewController.m */,
 				5D30A6321BE768740065EB2C /* Images.xcassets */,
 				5D30A6251BE768740065EB2C /* Supporting Files */,
+				04487F101CCE999F00E7D0B4 /* raaaaaViewController.h */,
+				04487F111CCE999F00E7D0B4 /* raaaaaViewController.m */,
 			);
 			path = "Wise Event";
 			sourceTree = "<group>";
@@ -205,6 +210,7 @@
 				5D30A62E1BE768740065EB2C /* ViewController.m in Sources */,
 				5D30A62B1BE768740065EB2C /* AppDelegate.m in Sources */,
 				5D30A6281BE768740065EB2C /* main.m in Sources */,
+				04487F121CCE999F00E7D0B4 /* raaaaaViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
